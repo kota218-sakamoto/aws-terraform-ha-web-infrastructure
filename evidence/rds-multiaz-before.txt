@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------------
+|                               DescribeDBInstances                              |
++-------------+------------------------------------------------------------------+
+|  AZ         |  ap-northeast-1c                                                 |
+|  Endpoint   |  ha-web-postgres.clmg8wuk4myq.ap-northeast-1.rds.amazonaws.com   |
+|  MultiAZ    |  True                                                            |
+|  SecondaryAZ|  ap-northeast-1a                                                 |
+|  Status     |  available                                                       |
++-------------+------------------------------------------------------------------+

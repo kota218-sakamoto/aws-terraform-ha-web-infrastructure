@@ -1,0 +1,80 @@
+=== Request 1 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 2 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 3 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 4 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 5 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 6 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 7 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 8 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 9 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 10 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 11 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 12 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 13 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 14 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 15 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 16 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 17 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 18 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
+=== Request 19 ===
+  <p>Server: web-1c</p>
+  <p>Availability Zone: ap-northeast-1c</p>
+
+=== Request 20 ===
+  <p>Server: web-1a</p>
+  <p>Availability Zone: ap-northeast-1a</p>
+
