@@ -20,6 +20,8 @@ Terraformを使用して、AWS上に2つのAvailability Zoneを利用した高�
 
 ## アーキテクチャ
 
+![AWS Architecture](docs/aws-architecture.png)
+
                          Internet
                             |
                             v
