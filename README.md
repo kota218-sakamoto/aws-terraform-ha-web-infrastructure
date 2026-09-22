@@ -1,6 +1,6 @@
 # AWS Terraform 高可用Web基盤ハンズオン
 
-Terraformを使用して、AWS上に2つのAvailability Zoneを利用した高可用Web基盤を構築し、負荷分散・監視・障害復旧・RDS Multi-AZフェイルオーバーを検証したハンズオンです。
+Terraformを使用して、AWS上に2つのAvailability Zoneを利用した高可用Web基盤を構築し、負荷分散・監視・EC2片系障害時のトラフィック切り替え・RDS Multi-AZフェイルオーバーを検証したハンズオンです。
 
 ## 構成概要
 
